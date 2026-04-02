@@ -2,12 +2,6 @@
 
 **Профессиональный мониторинг сетевых соединений для Русская Рыбалка 4**
 
-[![Windows](https://img.shields.io/badge/Windows-10%2B-blue.svg)](https://www.microsoft.com/windows)
-[![Qt](https://img.shields.io/badge/Qt-5.15%2B-green.svg)](https://www.qt.io)
-[![License](https://img.shields.io/badge/License-Proprietary-red.svg)]()
-
----
-
 ## 📋 О программе
 
 **HANZZO NETWORK PORT PRO** — это профессиональный инструмент для мониторинга сетевых соединений игры **Русская Рыбалка 4**. Программа в реальном времени отслеживает параметры подключения к игровым серверам, предоставляя детальную статистику и визуализацию.
